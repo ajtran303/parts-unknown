@@ -1,6 +1,6 @@
 # Parts Unknown
 
-## Written by AJ transformed
+## Written by AJ Tran
 
 ### Cast
 
