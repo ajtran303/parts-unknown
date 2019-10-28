@@ -1,12 +1,12 @@
 # Parts Unknown
 
-## Written by AJ Tran
+## Written by AJ Rose
 
 ### Cast
 
-* foo - bar
-* foo - bar
-* foo - bar
+* foo - Q Vang
+* foo - The Champion / The Student
+* foo - The Mentor
 * foo - The Promoter
 * foo - The Referee
 * foo - Ensemble
@@ -18,9 +18,9 @@
 
 ### Crew
 
-* Director/Set Design - AJ Tran
+* Director/Set Design - AJ Rose
 * Music Director - bar
-* Assistant Director/Stage Manager - bar
+* Assistant Director/Stage Manager -  ram
 * Light Design - bar
 * Costume Design - bar
 * Sound Mixing - bar
