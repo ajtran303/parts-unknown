@@ -10,8 +10,10 @@ A vision of the roiling Ocean.
 
 ## Scene 3
 
-A vision of unshackling chains.
+A vision of unshackled chains.
 
 ## Scene 4
 
 The Covenant of 100 Days.
+
+## INTERMISSION
