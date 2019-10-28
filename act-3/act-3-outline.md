@@ -18,4 +18,4 @@ The Student and The Mentor embark on a pilgrimage to learn more about the legend
 
 ## Scene 5
 
-While camping at the holy site, The Student has a vision of winds of change. 
+While camping at the holy site, The Student has a vision of winds of change.
