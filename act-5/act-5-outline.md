@@ -14,8 +14,8 @@ The Promoter announces another Battle Royale to find the strongest competitor in
 
 ## Scene 4
 
-Contract signing. The stakes are raised in negotiations. Face-off and lights down.
+Contender's interview. Cuts THE promo.
 
 ## Scene 5
 
-The title shot.
+Contract signing. The stakes are raised in negotiations. Face-off and lights down.
