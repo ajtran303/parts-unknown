@@ -1,5 +1,7 @@
 # Act 5 Outline
 
+The challenger should have a GAUNTLET match instead.
+
 ## Scene 1
 
 The Promoter introduces the current Champion of the World. Interview. The Champion announces an open challenge to all competitors in the region.

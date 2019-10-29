@@ -2,5 +2,5 @@
 
 ## AJ Rose
 
-### Draft 1
+### Outline
 ### October 27, 2019
