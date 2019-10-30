@@ -4,8 +4,8 @@
 
 ### Cast
 
-* foo - Q Vang
-* foo - The Champion / The Student
+* foo - The Painted One
+* foo - The Student
 * foo - The Mentor
 * foo - The Promoter
 * foo - The Referee
